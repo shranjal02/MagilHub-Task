@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MagilHub-Task/static/css/main.9bfadba6.css",
+    "main.js": "/MagilHub-Task/static/js/main.ecdb4358.js",
+    "static/js/787.301d2977.chunk.js": "/MagilHub-Task/static/js/787.301d2977.chunk.js",
+    "index.html": "/MagilHub-Task/index.html",
+    "main.9bfadba6.css.map": "/MagilHub-Task/static/css/main.9bfadba6.css.map",
+    "main.ecdb4358.js.map": "/MagilHub-Task/static/js/main.ecdb4358.js.map",
+    "787.301d2977.chunk.js.map": "/MagilHub-Task/static/js/787.301d2977.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bfadba6.css",
+    "static/js/main.ecdb4358.js"
+  ]
+}
